@@ -1,1 +1,1 @@
-# EgorVedmanov.github.io
+# .github.io
